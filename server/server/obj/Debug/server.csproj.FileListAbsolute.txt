@@ -1,0 +1,53 @@
+E:\my program\c#\a\desktop viewer\server\server\bin\Debug\server.exe.config
+E:\my program\c#\a\desktop viewer\server\server\bin\Debug\server.exe
+E:\my program\c#\a\desktop viewer\server\server\bin\Debug\server.pdb
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.Form1.resources
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.Form2.resources
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.Properties.Resources.resources
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.exe
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.pdb
+E:\my program\c#\a\desktop viewer\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\My Program\c#\desktop viewer\server\server\bin\Debug\server.exe.config
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.exe
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.pdb
+E:\My Program\c#\desktop viewer\server\server\bin\Debug\server.exe
+E:\My Program\c#\desktop viewer\server\server\bin\Debug\server.pdb
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.Form1.resources
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.Form2.resources
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.Properties.Resources.resources
+E:\My Program\c#\desktop viewer\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\bin\Debug\server.exe.config
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\bin\Debug\server.exe
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\bin\Debug\server.pdb
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\obj\Debug\server.Form1.resources
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\obj\Debug\server.Form2.resources
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\obj\Debug\server.exe
+C:\Users\MCG\Desktop\remote-desktop-viewer-main\server\server\obj\Debug\server.pdb
+C:\Users\esref\OneDrive\Masaüstü\server\server\bin\Debug\server.exe.config
+C:\Users\esref\OneDrive\Masaüstü\server\server\bin\Debug\server.exe
+C:\Users\esref\OneDrive\Masaüstü\server\server\bin\Debug\server.pdb
+C:\Users\esref\OneDrive\Masaüstü\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\esref\OneDrive\Masaüstü\server\server\obj\Debug\server.Form1.resources
+C:\Users\esref\OneDrive\Masaüstü\server\server\obj\Debug\server.Form2.resources
+C:\Users\esref\OneDrive\Masaüstü\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\esref\OneDrive\Masaüstü\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\esref\OneDrive\Masaüstü\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\esref\OneDrive\Masaüstü\server\server\obj\Debug\server.exe
+C:\Users\esref\OneDrive\Masaüstü\server\server\obj\Debug\server.pdb
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\bin\Debug\server.exe.config
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\bin\Debug\server.exe
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\bin\Debug\server.pdb
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\obj\Debug\server.Form1.resources
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\obj\Debug\server.Form2.resources
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\obj\Debug\server.exe
+C:\Users\esref\OneDrive\Masaüstü\sistem prog ödev\server\server\obj\Debug\server.pdb
